@@ -13,4 +13,6 @@ font-family:"Loren Ipsum";
 p {
 font-family:"Calibri";	
 color: red;
+font-size: 10px;
+text-align: center;
 }
